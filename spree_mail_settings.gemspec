@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.version     = SpreeMailSettings.version
   s.summary     = 'Mail setting functionality extracted from Spree Commerce'
   s.description = s.summary
-  s.required_ruby_version = '>= 2.5.7'
+  s.required_ruby_version = '>= 2.4.0'
 
   s.author    = 'John Hawthorn'
   s.email     = 'john.hawthorn@gmail.com'
